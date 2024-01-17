@@ -1,4 +1,4 @@
 class AppRoutes {
   static const initialRoute = '/';
-  static const difficultySelectionScreen = '/difficultySelectionScreen';
+  static const registrationScreen = '/registrationScreen';
 }
